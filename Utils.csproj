@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Nam3001.Utils</PackageId>
+    <Authors>Nam Nguyen</Authors>
+    <Version>1.0.2</Version>
+	<Description>This library to convert number to word(Vietnamese)</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl></RepositoryUrl>  
+  </PropertyGroup>
+
+</Project>
