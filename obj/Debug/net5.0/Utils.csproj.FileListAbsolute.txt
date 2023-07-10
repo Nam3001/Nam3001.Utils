@@ -10,3 +10,15 @@ D:\workspace\c#\Utils\obj\Debug\net5.0\Utils.dll
 D:\workspace\c#\Utils\obj\Debug\net5.0\refint\Utils.dll
 D:\workspace\c#\Utils\obj\Debug\net5.0\Utils.pdb
 D:\workspace\c#\Utils\obj\Debug\net5.0\ref\Utils.dll
+D:\workspace\c#\Nam3001.Utils\bin\Debug\net5.0\Utils.deps.json
+D:\workspace\c#\Nam3001.Utils\bin\Debug\net5.0\Utils.dll
+D:\workspace\c#\Nam3001.Utils\bin\Debug\net5.0\Utils.pdb
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.csproj.AssemblyReference.cache
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.AssemblyInfoInputs.cache
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.AssemblyInfo.cs
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.csproj.CoreCompileInputs.cache
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.dll
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\refint\Utils.dll
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\Utils.pdb
+D:\workspace\c#\Nam3001.Utils\obj\Debug\net5.0\ref\Utils.dll

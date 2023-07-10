@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Nam3001.Utils
 {
-    static class ConvertNumberToWord
+    public static class ConvertNumberToWord
     {
         public static string Transform(double inputNumber, bool suffix = false)
         {

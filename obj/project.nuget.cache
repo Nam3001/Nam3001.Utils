@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jf1a2mKettRdfB/j+dJwHkG2K39Cf2hgLc3nsDSk7GjC75PsuG54xwdmBUmelbF++cpjIyA1wJ8a0Q0HraApEQ==",
+  "dgSpecHash": "toc6Camz41XLvv3oxM6tZpwTO9LLYyZp4UF/YiaHowXWcL0Pr0Ha9tY00WZOpP6Y4DbMxcrgT0rcLJFx7tdl6g==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\c#\\Utils\\Utils.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\workspace\\c#\\Nam3001.Utils\\Utils.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
