@@ -61,14 +61,14 @@ namespace Nam3001.Utils
                         }
                     }
 
-                    // placeValue == 3 because it should cover millions billion conditions
+                    // placeValue == 3 because it should cover thousand billion conditions
                     if ((ones > 0) || (tens > 0) || (hundreds > 0) || (placeValue == 3))
                     {
                         result = placeValues[placeValue] + result;
                     }
 
                     placeValue++;
-                    // millions billion conditions
+                    // thousand billion conditions
                     if (placeValue > 3) placeValue = 1;
 
                     if ((ones == 1) && (tens > 1))
